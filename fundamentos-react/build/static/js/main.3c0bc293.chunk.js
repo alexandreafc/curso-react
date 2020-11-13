@@ -1,0 +1,2 @@
+(this["webpackJsonpfundamentos-react"]=this["webpackJsonpfundamentos-react"]||[]).push([[0],{4:function(e,n,t){"use strict";t.r(n);var c=t(2),s=(t(7),t(3)),o=t.n(s),r=(t(1),Object(c.jsx)("strong",{children:"Ol\xe1 React seja bem vindo!"}));o.a.render(Object(c.jsx)("div",{children:r}),document.getElementById("root"))},7:function(e,n,t){}},[[4,1,2]]]);
+//# sourceMappingURL=main.3c0bc293.chunk.js.map
