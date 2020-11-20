@@ -1,6 +1,8 @@
 import "./App.css";
 import React from "react";
 
+import Card from "./components/layout/Card";
+
 import Mega from "./components/mega/Mega";
 import Contador from "./components/contador/Contador";
 import Input from "./components/formulario/Input";
@@ -8,7 +10,6 @@ import IndiretaPai from "./components/comunicacao/IndiretaPai.jsx";
 import DiretaPai from "./components/comunicacao/DiretaPai";
 import UsuarioInfo from "./components/condicional/UsuarioInfo";
 import ParOuImpar from "./components/condicional/ParOuImpar";
-import Card from "./components/layout/Card";
 import ListaAlunos from "./components/repeticao/ListaAlunos";
 import TabelaProdutos from "./components/repeticao/TabelaProdutos";
 import Familia from "./components/basicos/Familia";
