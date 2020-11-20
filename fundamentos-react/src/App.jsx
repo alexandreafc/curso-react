@@ -24,9 +24,7 @@ export default () => (
 		<h1>Fundamentos React</h1>
 
 		<div className='Cards'>
-			<Card titulo='#13 - Mega' color='#B9006E '>
-				<Mega />
-			</Card>
+			<Card titulo='#13 - Mega' color='#B9006E '></Card>
 
 			<Card titulo='#12 - Contador' color='#424242'>
 				<Contador numeroInicial={12} />
