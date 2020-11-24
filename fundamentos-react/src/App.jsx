@@ -1,4 +1,5 @@
 import "./App.css";
+import ReactDom from "react-dom";
 import React from "react";
 
 import Card from "./components/layout/Card";
@@ -24,7 +25,9 @@ export default () => (
 		<h1>Fundamentos React</h1>
 
 		<div className='Cards'>
-			<Card titulo='#13 - Mega' color='#B9006E '></Card>
+			<Card titulo='#13 - Mega' color='#B9006E '>
+				<Mega></Mega>
+			</Card>
 
 			<Card titulo='#12 - Contador' color='#424242'>
 				<Contador numeroInicial={12} />
